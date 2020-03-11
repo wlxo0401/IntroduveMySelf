@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+<link rel="stylesheet" href="css/style.css?after">
+</head>
+<body>
+<div id = "wrap">
+	<!-- header -->
+	<div id = "header">
+	</div>
+	<!-- //header -->
+	<!-- container -->
+	<div id = "container">
+	</div>
+	<!-- //container -->
+	<!-- footer -->
+	<div id = "footer">
+	</div>
+	<!-- //footer -->
+</div>
+
+
+</body>
+</html>

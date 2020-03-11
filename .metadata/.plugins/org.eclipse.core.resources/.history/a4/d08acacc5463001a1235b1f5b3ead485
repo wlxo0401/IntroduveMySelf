@@ -1,0 +1,13 @@
+.nav-distance{
+	padding: 2.1% 7.7%
+}
+ 
+.navbar-brand{
+	width: 230px ;
+	height: 40px;
+	font-family: NanumSquareR;
+	font-size: 41px;
+	line-height: 1.68;
+	text-align: left;
+	color: #35465d;
+}

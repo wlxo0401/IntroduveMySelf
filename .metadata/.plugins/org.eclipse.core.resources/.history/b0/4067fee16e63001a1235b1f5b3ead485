@@ -1,0 +1,95 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	margin-top: 50px;
+	text-align: center; 
+}
+
+.maintitle1{
+	font-family: NanumSquareR;
+	font-size: 100px;
+	line-height: 1.67;
+	text-transform: uppercase;
+	font-weight: 900;
+	text-align: center;
+	color: #354655d;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+
+.maintitle2{
+	text-transform: uppercase;
+	font-family: NanumSquareR;
+	font-size: 44.5px;
+	line-height: 1.67;
+	text-align: center;
+	color: #354655d;
+}
+hr.two_1 {
+    width: 500px;
+    border-bottom: 0px;
+    text-align: left;
+    margin-left: 0px;
+}
+
+.nav-distance{
+	padding: 2.1% 7.7%
+}
+ 
+.navbar-brand{
+	font-family: NanumSquareR;
+	line-height: 1.68;
+	text-align: left;
+	color: #35465d;
+}
+
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+  html {
+    font-size: 10px;
+  }
+  .navbar-brand{
+  	font-size: 4rem;
+  }
+}
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding-bottom: 50px;
+    width: 100%;
+	padding: 15px 0;
+	text-align: center;
+	color: white;
+	background: blue;
+
+}
+ 
+.ElementarySchool p {
+    margin-top: 10px;
+    margin-bottom: 1rem;
+}
+.footer-intro {
+    text-align: center;
+    margin-top: 10px;
+    line-height: 14px;
+    color: #636363;
+}
+.footer-intro span.bar {
+    display: inline-block;
+    width: 1px;
+    height: 10px;
+    background: #bebebe;
+    margin: 0 10px;
+}
+.copyright {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #636363;
+}

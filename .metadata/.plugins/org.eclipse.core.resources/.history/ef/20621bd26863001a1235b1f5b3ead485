@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+    <link rel = "stylesheet" href = "style.css">
+  </head>
+<body>
+
+<div id = "wrap">
+	<!-- header -->
+	<div id = "header">
+		<nav class="navbar navbar-expand-lg navbar-light bg-light nav-distance">
+			<a class="navbar-brand" href="https://pensive-heyrovsky-621c38.netlify.com">IntroduceMySelf</a>
+		  	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+		    	<span class="navbar-toggler-icon"></span>
+		  	</button>
+		  	<div class="collapse navbar-collapse" id="navbarNav">
+		    	<ul class="navbar-nav">
+		      		<li class="nav-item active">
+		        		<a class="nav-link" href="#">KimJiTae <span class="sr-only">(current)</span></a>
+		      		</li>
+		      		<li class="nav-item">
+		        		<a class="nav-link" href="#">WhatIdid</a>
+		      		</li>
+		      		<li class="nav-item">
+		        		<a class="nav-link" href="#">dd</a>
+		      		</li>
+		      		<li class="nav-item">
+		        		<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+		      		</li>
+		    	</ul>
+			</div>
+		</nav>
+	</div>
+	<!-- //header -->
+	<!-- container -->
+	<div class = "container">
+		<div class = "ElementarySchool">
+			<img src="img/eslogo.jpg" style="max-width: 100%; height: auto;"> 
+			<img src="img/espic.jpg" style="max-width: 100%; height: auto;"> 
+			<p>학교이름 : 용미초등학교</p>
+			<p>위치 : <a href='http://naver.me/F72uX0N2'>경기도 파주시 광탄면 용미리</a> </p>
+			<p>기간 : 2004.03 ~ 2010.02</p>
+			<h2>특징</h2>
+			<p>용미리라는 작은 마을에 있는 작은 초등학교 학년당 반이 한개만 있다.
+			내가 다닐때는 반 정원이 14명 정도에서 계속 유지하며 1학년 입학시 졸업하는 6년동안 같은
+			반에서 생활한다.</p>
+		</div>
+		<div class ="MiddleSchool">
+			<img src="img/mokam.jpg" style="max-width: 100%; height: auto;">
+			<p>학교이름 : 목암중학교</p>
+			<p>위치 : <a href='http://naver.me/xHH8JUWO'>경기도 고양시 덕양구 고양동</a> </p>
+			<p>기간 : 2010.03 ~ 2013.02</p>
+		</div>
+		<div class ="HighSchool">
+			<img src="img/eslogo.jpg" style="max-width: 100%; height: auto;">
+			<img src="img/espic.jpg" style="max-width: 100%; height: auto;">
+			</br>
+			<p>학교이름 : 고양일고등학교</p>
+			<p>위치 : <a href='http://naver.me/5oOmveoe'>경기도 고양시 덕양구 고양동</a> </p>
+			<p>기간 : 2013.03 ~ 2016.02</p>
+		</div>
+		<div class ="HighSchool">
+			<img src="img/eslogo.jpg" style="max-width: 100%; height: auto;">
+			<img src="img/espic.jpg" style="max-width: 100%; height: auto;">
+			</br>
+			<p>학교이름 : 인하공업전문대학</p>
+			<p>위치 : <a href='http://naver.me/5L0Rg6Xr'>인천 미추홀구 학익동</a> </p>
+			<p>기간 : 2016.03 ~ </p>
+		</div>
+	</div>
+	<!-- //container -->
+	<!-- footer -->
+	<div id = "footer">
+		<div class="footer-intro">만든이 : <a href="wlxo0401@gmail.com"> wlxo0401@gmail.com</a><span class="bar"></span>소개 : 연습용 개인 사이트입니다.</div>
+		<div class="copyright">Copyright© KimJiTae</div>
+	</div>
+	<!-- //footer -->
+</div>
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</body>
+</html>

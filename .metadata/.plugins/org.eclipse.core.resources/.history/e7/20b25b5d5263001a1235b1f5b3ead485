@@ -1,0 +1,7 @@
+#wrap {
+    width: 100%;
+    min-width: 1110px;
+}
+body {
+    line-height: 1;
+}

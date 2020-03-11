@@ -1,0 +1,28 @@
+body{
+	background-image: url('img/kimjitae1.jpg');
+}
+
+#container{
+	margin-top: 100px;
+}
+#maintitle{
+	width: 547;
+	height: 44px;
+	font-family: NanumSquareR;
+	font-size: 44.5px;
+	line-height: 1.67;
+	text-align: center;
+	color: #354655d;
+}
+
+
+.nav-distance{
+	padding: 2.1% 7.7%
+}
+ 
+.navbar-brand{
+	font-family: NanumSquareR;
+	line-height: 1.68;
+	text-align: left;
+	color: #35465d;
+}
